@@ -7,15 +7,10 @@ This project focuses on analyzing movie data using Microsoft Power BI. It provid
 🎯 Objectives
 
 - Analyze yearly movie release trends.
-
 - Identify the most common movie genres.
-
 - Evaluate audience preferences using IMDb ratings.
-
 - Compare ratings across different genres.
-
 - Analyze movie runtime and rating patterns.
-
 - Generate meaningful insights from movie data.
 
 🛠️ Tools Used
